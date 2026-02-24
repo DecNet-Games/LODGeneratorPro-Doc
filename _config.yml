@@ -1,0 +1,9 @@
+title: "LOD Generator Pro Documentation"
+description: "Professional LOD generation and optimization tool for Unity."
+theme: "just-the-docs"
+
+url: "https://DecNet-Games.github.io"
+baseurl: "/LODGeneratorPro-Doc"
+
+aux_links:
+  Unity Asset Store: "https://assetstore.unity.com"
