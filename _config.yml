@@ -1,6 +1,9 @@
 title: "LOD Generator Pro Documentation"
 description: "Professional LOD generation and optimization tool for Unity."
-theme: "just-the-docs"
+# theme: "just-the-docs"
+remote_theme: "just-the-docs/just-the-docs"
+plugins:
+  - jekyll-remote-theme
 
 url: "https://DecNet-Games.github.io"
 baseurl: "/LODGeneratorPro-Doc"
